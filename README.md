@@ -19,5 +19,7 @@ Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_do
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/genqr](https://hexdocs.pm/genqr).
 
+```
 Run: iex -S mix run
 iex(1)> Genqr.gen("csv_file_path", 0, "output_path")
+```
